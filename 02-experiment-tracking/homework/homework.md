@@ -143,4 +143,4 @@ What is the test RMSE of the best model?
 ## Solution video
 * https://www.youtube.com/watch?v=s2LcTqLEIxw&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK&index=19
 
-* My solution(Not Submitted) - https://github.com/RAGHUBIHARI/mlops-zoomcamp/blob/main/01-intro/homework.ipynb
+* My solution(Not Submitted) - https://github.com/RAGHUBIHARI/mlops-zoomcamp/blob/main/02-experiment-tracking/homework/solution.md
