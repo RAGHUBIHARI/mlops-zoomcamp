@@ -7,10 +7,11 @@ datasources:
   - name: PostgreSQL
     type: postgres
     access: proxy
-    url: db.:5432
+    url: db:5432
     database: monitor
     user: postgres
     secureJsonData:
       password: 'Test'
     jsonData:
       sslmode: 'disable'
+      database: monitor
